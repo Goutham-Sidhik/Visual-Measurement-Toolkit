@@ -47,7 +47,7 @@ To automate the measurement of object dimensions using computer vision technique
 
 ---
 
-## 🔄 Workflow
+## 🔄 Pipeline Overview
 
 1. **📥 Image Upload**  
    Users upload either one image or two adjacent-side images of an object with a visible ArUco marker.
