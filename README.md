@@ -34,7 +34,7 @@ A computer vision-based toolkit that estimates real-world dimensions of objects 
 | Component         | Tool/Library              |
 |------------------|---------------------------|
 | Language          | Python                    |
-| Detection Models  | YOLOv8, SSD (custom)      |
+| Detection Models  | YOLOv11, SSD (custom)     |
 | Image Processing  | OpenCV                    |
 | Marker Tracking   | ArUco (OpenCV)            |
 | Web Interface     | Flask + HTML/CSS          |
