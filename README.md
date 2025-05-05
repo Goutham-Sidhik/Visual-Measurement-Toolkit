@@ -26,6 +26,7 @@ A computer vision-based toolkit that estimates real-world dimensions of objects 
 ## 🧠 Architecture
 
 ![Architecture Diagram](architecture.png)
+*Note: Temporary architecture — final version coming soon.*
 
 ---
 
