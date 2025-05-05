@@ -37,7 +37,7 @@ A computer vision-based toolkit that estimates real-world dimensions of objects 
 | Detection Models  | YOLOv11, SSD (custom)     |
 | Image Processing  | OpenCV                    |
 | Marker Tracking   | ArUco (OpenCV)            |
-| Web Interface     | Flask + HTML/CSS          |
+| Web Interface     | Streamlit                 |
 
 ---
 
