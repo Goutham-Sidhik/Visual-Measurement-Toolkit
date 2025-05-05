@@ -78,8 +78,8 @@ To automate the measurement of object dimensions using computer vision technique
     "depth": 16.1
   },
   "confidence": 0.92,
-  "reference_marker": "ArUco 4x4",
-  "calibration_ratio": 0.1342  // cm/px
+  "reference_marker": "ArUco Original",
+  "calibration_ratio": 0.1342  
 }
 ```
 
